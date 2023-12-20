@@ -24,6 +24,7 @@ using namespace std;
 void solve()
 {
     cout << "Hello World!" << endl;
+    cout << "Inki pinki ponki" << endl;
 }
 
 int main()
